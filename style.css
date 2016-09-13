@@ -1,0 +1,21 @@
+p {
+	background-color: #D46A6A;
+}
+
+h1{
+	font-family: cursive;
+	color: #758AA8;
+
+}
+
+p {
+	font-family:fantasy;
+	font: 3em, italic bold;
+	color: #164900; 
+}
+
+ol li{
+	color: #57EB18
+	font-family:inherit
+	background-color: #000000;
+}
